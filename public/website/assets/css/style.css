@@ -1,0 +1,54 @@
+.logo{
+    height: 50px;
+    width: 70px;
+}
+.header{
+    background-image: linear-gradient(rgba(25,28,105,0.9),rgba(25,28,105,0.9)),url("../img/khatna-baby.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.header-title{
+    color: #f1ff00;
+    text-align: center;
+}
+.up_arrow i{
+    font-size: 50px;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    color: #00acee;
+}
+.box{
+    border: 3px solid white;
+    border-radius: 20px;
+    
+}
+
+
+.sun-list{
+    height: 35px;
+    width: 35px;
+}
+
+.box-2{
+    border: 3px solid red;
+    border-radius: 20px;
+}
+.charecter{
+    color: #3322c5;
+}
+.specail{
+    background-color: #303030;
+}
+.headline{
+    color: #05fff5;
+}
+.mobile{
+    background-color: #fbe7e7;
+}
+
+.registation-form{
+    border: 2px solid black;
+}
